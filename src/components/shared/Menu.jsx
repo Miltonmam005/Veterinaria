@@ -73,6 +73,7 @@ const Menu = ({ usuarioAdmin, setUsuarioAdmin }) => {
                 Solicitar Turno
               </Nav.Link>
               {/* logo del carrito */}
+              {/* falta definir el logo del carrito si sera una imagen o un carrito o solo el nombre del carrito */}
               <Nav.Link
                 as={NavLink}
                 to="/detalle-producto/1"
